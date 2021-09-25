@@ -2,8 +2,8 @@
 //Pengaturan Umum
 var keyGenerator = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890+/=";  
 var teksGenerate = "Generate Download Link";
-var teksGetLink = "Download SVG PNG EPS File";
-var timerButton = 25;
+var teksGetLink = "Download File";
+var timerButton = 35;
 var capubAds = "ca-pub-xxxxxxxxxxxxxxxx";
 var IDslotAds = "xxxxxxxxx";
 
