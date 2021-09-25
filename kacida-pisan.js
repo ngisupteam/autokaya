@@ -190,7 +190,7 @@ if (0 != cekUrlSafelink) {
         setInterval(function () {
             n <= 1
                 ? ((document.getElementById("menuju-link").style.display = "inline-block"), (document.querySelector(".proses-link").style.display = "none"))
-                : ((document.getElementById("menuju-link").style.display = "none"), (document.querySelector(".proses-link").innerHTML = "Create Downlodable File in " + --n + " second"));
+                : ((document.getElementById("menuju-link").style.display = "none"), (document.querySelector(".proses-link").innerHTML = "Create Downlodable File in " + --n + " Second"));
         }, 1e3);
     }
     setInterval(() => {
