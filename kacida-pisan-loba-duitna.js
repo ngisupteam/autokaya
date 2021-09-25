@@ -184,7 +184,7 @@ if (0 != cekUrlSafelink) {
                 "</div><ins class='adsbygoogle' data-ad-client='"+capubAds+"' data-ad-format='fluid' data-ad-layout='in-article' data-ad-slot='"+IDslotAds+"' style='display:block; text-align:center;'></ins>"),
             (document.getElementById("menuju-link").onclick = function () {
                 var e = cekUrlSafelink;
-                window.open(e, "_self");
+                window.open(e, "_blank");
             });
         var n = timerButton;
         setInterval(function () {
